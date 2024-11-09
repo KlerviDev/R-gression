@@ -14,7 +14,7 @@ Régression Linéaire :
 Simple et multiple, pour modéliser les relations linéaires entre les variables.
 
 Modèles Basés sur les Arbres de Décision
-Arbre de Décision pour la Régression :
+Arbre de Décision pour la Régression : 
 Simple et efficace pour capturer des relations non linéaires.
 Random Forest :
 Ensemble de plusieurs arbres de décision pour réduire le surapprentissage et améliorer la précision.
